@@ -1,0 +1,20 @@
+[
+    {
+       "id": 1,
+       "productName" : "sample-1",
+       "price": 50,
+       "oldPrice": 100,
+       "category": "vegetables",
+       "isActive": true,
+       "description": "sample desc-1"
+    },
+    {
+        "id": 2,
+        "productName" : "sample-2",
+        "price": 100,
+        "oldPrice": 150,
+        "category": "fruits",
+        "isActive": false,
+        "description": "sample desc-2"
+     }
+]
